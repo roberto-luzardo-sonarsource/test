@@ -107,7 +107,7 @@ public class Milestone1_Task_Trigger_Utility {
              * @Shae Selix, October 1, 2016:
              * This is currently insecure, due to use of SObject container
              */
-            //insert subscriptionsAddList;
+
 
             //delete subscriptionsDeleteList;
         }
