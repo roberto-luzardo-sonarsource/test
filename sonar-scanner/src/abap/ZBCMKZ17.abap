@@ -1,4 +1,4 @@
-REPORT ZBCMKZ17.
+*REPORT ZBCMKZ17.
 *----------------------------------------------------------------------*
 * Description:   Report and Transaction Starter                        *
 *                It shows an individual list of reports/Trans. to start*
@@ -8,7 +8,7 @@ REPORT ZBCMKZ17.
 * Class:         Utility                                               *
 *                                                                      *
 * Customizing:   Needs Customer Table: ZBCMKZ1                         *
-*  Field:                Key Type        Length    Descr.              *
+*  Field:                Key Type        Length    Descr.              
 *  ZBCMKZ1-BNAME         X   CHAR C     12         User name           *
 *  ZBCMKZ1-NAME          X   CHAR C      8         Report/Trans. code  *
 *  ZBCMKZ1-NUMMER            INT1 X      1         Priority level      *
